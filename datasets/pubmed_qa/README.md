@@ -11,7 +11,7 @@ licenses:
 multilinguality:
 - monolingual
 size_categories:
-- 1K<n<10K
+- 1K<n<1M
 source_datasets:
 - original
 task_categories:
@@ -44,6 +44,7 @@ task_ids:
   - [Dataset Curators](#dataset-curators)
   - [Licensing Information](#licensing-information)
   - [Citation Information](#citation-information)
+  - [Contributions](#contributions)
 
 ## Dataset Description
 
@@ -135,3 +136,7 @@ task_ids:
 ### Citation Information
 
 [More Information Needed]
+
+### Contributions
+
+Thanks to [@tuner007](https://github.com/tuner007) for adding this dataset.
